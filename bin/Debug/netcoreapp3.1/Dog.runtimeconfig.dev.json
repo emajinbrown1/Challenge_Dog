@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Emajin\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Emajin\\.nuget\\packages"
+    ]
+  }
+}
